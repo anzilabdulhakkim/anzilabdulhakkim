@@ -24,9 +24,12 @@ If you appreciate what I do, perhaps consider buying me a coffee or tea? Your su
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=anzilabdulhakkim" alt="anzilabdulhakkim" /></a> </p>
 
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs?username=anzilabdulhakkim&show_icons=true&locale=en&layout=compact)
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=anzilabdulhakkim&" alt="anzilabdulhakkim" /></p>
+
 <img align="center" alt="GIF" src="code.gif" width="400" height="320" />
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs?username=anzilabdulhakkim&show_icons=true&locale=en&layout=compact)
 
 
 🔗 &nbsp;**Connect with me**
