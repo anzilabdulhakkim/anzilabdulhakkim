@@ -1,12 +1,12 @@
 ## Hi there! <img src="https://images.emojiterra.com/google/noto-emoji/unicode-15/animated/1f44b.gif" width="30" height="30"> <br>
  # I'm Anzil Abdul Hakkim ! 😊<br>
-👀 I'm passionate about Full-Stack development and exploring the realms of technology! 🚀<br>
+👀 I'm passionate about Full-Stack web development and exploring the realms of technology! 🚀<br>
 🌱 Specialized in web development, I'm eager to delve into the intricacies of building scalable distributed systems. My code reflects my commitment to readability and maintainability.<br>
-💼 any freelance work? do reach me ,<br>
+💼 Any freelance work? do reach me ,<br>
 📫 Let's connect! Drop me a line at anzilabdulhakkim135@gmail.com 📬<br>
-💬 ask me about anything, i am happy to help<br>
+💬 Ask me about anything, I am happy to help.<br>
 
-**languages and tools:**  
+## Languages and Tools:
 
 <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
 <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
@@ -14,6 +14,8 @@
 <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
 <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png"></code>
 <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
+<code><img height="50" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"></code>
+<code><img height="50" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"></code>
 
 
 If you appreciate what I do, perhaps consider buying me a coffee or tea? Your support means the world to me!☕️ <br>
